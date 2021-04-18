@@ -18,7 +18,7 @@ public class TestTree {
 //////////////////////////////////////////////////////////////////////////////////
                                     /// 2 ///
         // normal iterate no generic
-        Iterator drzewo2 = drzewo = Arrays.asList(drzewa).iterator();
+        Iterator drzewo2 = Arrays.asList(drzewa).iterator();
 
         while (drzewo2.hasNext()) {
             // casting
